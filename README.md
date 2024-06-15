@@ -24,3 +24,10 @@ Before you begin, ensure you have met the following requirements:
    ```sh
    git clone https://github.com/your-username/registration-form.git
 
+
+   Project Structure
+registration-form/
+├── public/
+│   └── index.html
+├── server.js
+└── package.json
