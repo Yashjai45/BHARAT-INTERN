@@ -45,6 +45,7 @@ npm install
 Configuration
 Ensure MongoDB is running on your local machine. You can start MongoDB using:
 mongod
+![image](https://github.com/Yashjai45/BHARAT-INTERN/assets/109402531/7dd75dc1-244f-4b50-9982-3b849690ab86)
 
 
 Running the Application
